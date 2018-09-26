@@ -1,0 +1,36 @@
+[08-Aug-2018 17:11:22 UTC] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 41
+[08-Aug-2018 17:11:22 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 41
+[08-Aug-2018 17:20:54 UTC] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 41
+[08-Aug-2018 17:20:54 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 41
+[08-Aug-2018 17:22:57 UTC] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 41
+[08-Aug-2018 17:22:57 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 41
+[08-Aug-2018 18:00:58 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:04:05 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:13:42 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:20:56 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:24:16 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 84
+[08-Aug-2018 19:24:34 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 84
+[08-Aug-2018 19:25:25 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 84
+[08-Aug-2018 19:25:43 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 84
+[08-Aug-2018 19:26:39 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 84
+[08-Aug-2018 19:27:11 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/topexlabs/public_html/lentes2/europa/ordenar.php on line 84
+[08-Aug-2018 19:28:16 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:30:58 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:33:52 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:34:22 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:38:35 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:44:38 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:45:39 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 19:52:07 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 21:45:02 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 21:47:34 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 21:49:14 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 21:53:09 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 21:53:42 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 21:58:12 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 22:00:07 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 22:02:23 UTC] PHP Fatal error:  Call to a member function IsSMTP() on null in /home/topexlabs/public_html/lentes2/europa/PHPMailer/smtpconf.php on line 5
+[08-Aug-2018 22:05:03 UTC] PHP Fatal error:  Call to a member function IsSMTP() on null in /home/topexlabs/public_html/lentes2/europa/PHPMailer/smtpconf.php on line 5
+[08-Aug-2018 22:10:11 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[08-Aug-2018 22:13:20 UTC] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/topexlabs/public_html/lentes2/europa/PHPMailer/class.phpmailer.php on line 2825
+[10-Aug-2018 23:01:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/topexlabs/public_html/lentes/europa/ordenar.php on line 208
